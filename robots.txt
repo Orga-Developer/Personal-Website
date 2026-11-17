@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://orga-developer.github.io/sebastian-houcem-portfolio/sitemap.xml
